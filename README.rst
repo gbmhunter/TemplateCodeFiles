@@ -1,0 +1,44 @@
+==============================================================
+template-code-files
+==============================================================
+
+--------------------------------------------------------------------------------
+Template (skeleton) files for source code in a variety of programming languages.
+--------------------------------------------------------------------------------
+
+- Author: gbmhunter <gbmhunter@gmail.com> (http://www.cladlab.com)
+- Created: 2014/07/17
+- Last Modified: 2014/07/17
+- Version: v1.0.0.0
+- Company: CladLabs
+- Project: n/a
+- Language: C, C++
+- Compiler: n/a
+- uC Model: n/a
+- Computer Architecture: n/a
+- Operating System: n/a
+- Documentation Format: Doxygen
+- License: GPLv3
+
+.. role:: bash(code)
+	:language: bash
+
+Description
+===========
+
+// Nothing here yet
+	
+FAQ
+===
+
+// Nothing here yet
+
+
+Changelog
+=========
+
+========= ========== ===================================================================================================
+Version   Date       Comment
+========= ========== ===================================================================================================
+v1.0.0.0  2014/07/17 Initial commit. Code template files for C added. C++ template files added but need fixing.
+========= ========== ===================================================================================================
