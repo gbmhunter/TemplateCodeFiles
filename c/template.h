@@ -1,9 +1,9 @@
 //!
-//! @file 		    		Template.h
-//! @author 	    		Name (name@gmail.com)
-//! @created	    		2014-04-22
-//! @last-modified  		2014-04-30
-//! @brief 		    		Template file for C header code.
+//! @file				Template.h
+//! @author				Geoffrey Hunter <gbmhunter@gmail.com> (www.cladlab.com)
+//! @created			2014-04-22
+//! @last-modified	2014-08-06
+//! @brief				Template file for C code.
 //!
 
 //===============================================================================================//
@@ -31,7 +31,7 @@ extern "C" {
 // none
 
 // User source
-//#include "template.h"
+#include "../include/Template.h"
 
 //===============================================================================================//
 //======================================= PUBLIC MACROS =========================================//
@@ -62,11 +62,8 @@ extern "C" {
 bool Template_Example(uint8_t aNumber);
 
 
-
-// none
-
 #ifdef __cplusplus
-}
+} // extern "C" {
 #endif
 
 #endif // ##ifndef TEMPLATE_H

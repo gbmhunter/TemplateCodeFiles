@@ -1,9 +1,9 @@
 //!
-//! @file 		    	Template.c
-//! @author 	    	Name (email@gmail.com)
+//! @file				Template.c
+//! @author				Geoffrey Hunter <gbmhunter@gmail.com> (www.cladlab.com)
 //! @created			2014-07-17
-//! @last-modified  	2014-07-30
-//! @brief 		    	Template file for C source code.
+//! @last-modified	2014-08-06
+//! @brief				Template file for C code.
 //!
 
 //===============================================================================================//
